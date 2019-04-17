@@ -4,7 +4,7 @@ install:
   - sudo apt-get install -y gcc-arm-none-eabi
 
 before_script:
-  - pip install cpplint
+  - sudo pip install cpplint
 
 script:
   - cpplint src/*.cpp
