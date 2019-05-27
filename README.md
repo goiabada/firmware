@@ -13,3 +13,15 @@ Open your Arduino IDE and install Arduino Due Board.
 * Tools -> Board -> Board Manager
 * Look for `Arduino SAM Boards (32-bits ARM Cortex-M3)` and install it.
 
+
+### TaskScheduler
+Open your Arduino IDE and install TaskScheduler library.
+
+* Tools -> Manage Libraries
+* Look for `TaskScheduler` from `Anatoli Arkhipenko` and install it.
+
+
+### UCB Lib
+Open your ARduino IDe and install UCGLib
+* Tools -> Manage Libraries
+* Look fro `UCGLib` from `oliver`and install it.
